@@ -1,2 +1,1 @@
-# coursera-test
-coursers test repository
+Hello! i am Shanta.
